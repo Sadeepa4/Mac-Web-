@@ -1,0 +1,8 @@
+{
+  "name": "McOrdering AI",
+  "description": "High-converting food ordering platform concept with Gemini-powered personalization and smart menu descriptions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
